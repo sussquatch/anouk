@@ -1,0 +1,225 @@
+{
+"items": [
+		{	"n":"Ancient Promise Solitaire Ring",
+			"d":"14k gold and diamond ring",
+			"p":"Starting from $2200",
+			"f":"ancient_promise_solitaire_ring" }
+		,
+		{	"n":"Sea Sand Diamond Ring",
+			"d":"14k gold and Canadian diamond ring",
+			"p":"Starting from $2500",
+			"f":"sea_sand_diamond_ring" }
+		,
+		{	"n":"Eternal Gold Band",
+			"d":"14k yellow gold band",
+			"p":"$760",
+			"f":"eternal_gold_band" }
+		,	
+		{	"n":"Waves Band",
+			"d":"14k white gold band",
+			"p":"$1100",
+			"f":"waves_band" }
+		,	
+		{	"n":"Mountain Star Band",
+			"d":"14k gold and diamond band",
+			"p":"Starting from $820",
+			"f":"mountain_star_band" }
+		,	
+		{	"n":"Eternal Wide Band",
+			"d":"14k yellow gold band",
+			"p":"$1100",
+			"f":"wide_gold_band" }
+		,	
+		{	"n":"Timeless Bands Set",
+			"d":"14k yellow gold & 14k white gold bands",
+			"p":"$990 (his) $750 (hers)",
+			"f":"timeless_bands_set" }
+		,	
+		{	"n":"Organic Bands Set",
+			"d":"14k gold bands",
+			"p":"$990 (his) $740 (hers)",
+			"f":"organic_bands_set" }
+		,	
+		{	"n":"Three Drops Ring",
+			"d":"14k gold, diamond and aquamarines ring",
+			"p":"$2800",
+			"f":"three_drops_ring" }
+		,
+		{	"n":"Seashore Mens Band",
+			"d":"14k gold band",
+			"p":"$990",
+			"f":"seashore_mens_band"	}
+		,
+		{	"n":"Seashore Band",
+			"d":"14k gold 3mm band",
+			"p":"$780",
+			"f":"seashore_band"
+		}
+		,
+		{	"n":"Reaching for the Stars",
+			"d":"14k yellow gold and diamonds",
+			"p":"Starting from $3500",
+			"f":"reaching_for_the_stars"
+		}
+		,
+		{	"n":"Primal Band",
+			"d":"14k white gold band",
+			"p":"$750",
+			"f":"primal_band"
+		}
+		,
+		{	"n":"Seafoam Band",
+			"d":"14k yellow gold and diamonds",
+			"p":"$1600",
+			"f":"seafoam_band"
+		}
+		,
+		{	"n":"Stardust Band",
+			"d":"14k white gold and diamonds",
+			"p":"$1500",
+			"f":"stardust_band"
+		}
+		,
+		{	"n":"Organic Solitaire Ring",
+			"d":"14k white gold and a Canadian diamond ring",
+			"p":"Starting from $2200",
+			"f":"organic_solitaire_ring"
+		}
+		,
+		{	"n":"Nicki Pebble Band",
+			"d":"14k yellow gold and diamonds",
+			"p":"$2500",
+			"f":"nicki_pebble_band"
+		}
+		,
+		{	"n":"Michelle Band",
+			"d":"14k yellow gold and diamonds",
+			"p":"$1500",
+			"f":"michelle_band"
+		}
+	    ,
+	    {
+	            "n":"Halo of Stars",
+	            "d":"14k yellow gold and diamonds",
+	            "p":"Starting from $4800",
+	            "f":"halo_stars_ring"
+	    }
+		,
+		{
+			"n":"Moonlight Set",
+			"d":"14k white gold bands",
+			"p":"$990 (his) $595 (hers)",
+			"f":"moonlight_set"
+		}
+		,
+		{
+			"n":"Extra-fine Seashore Band",
+			"d":"14k gold, 2mm band",
+			"p":"$595",
+			"f":"extra_fine_seashore_band"
+		}
+		,	
+		{
+			"n":"Blue Sapphire Stars Ring",
+			"d":"14k gold, sapphire and diamonds",
+			"p":"Starting from $2500",
+			"f":"blue_sapphire_stars_ring"
+		}
+		,
+		{	
+			"n":"Pebble Solitaire",
+			"d":"14k gold and diamond ring",
+			"p":"Starting from $2200",
+			"f":"pebble_solitaire"
+		}
+		,
+		{
+			"n":"Little Halo Ring",
+			"d":"14k gold and diamonds",
+			"p":"Starting from $3200",
+			"f":"little_halo_ring"
+		}
+		,
+		{
+			"n":"Canadian Diamond Halo Ring",
+			"d":"14k white gold and diamonds",
+			"p":"Starting from $3400",
+			"f":"canadian_diamond_halo_ring"
+		}
+		,
+		{
+			"n":"Tree Bark Band",
+			"d":"14k yellow gold band",
+			"p":"1100",
+			"f":"tree_bark_band"
+		}
+		,
+		{
+			"n":"Shimmering Dream",
+			"d":"14k gold and a Canadian diamond ring",
+			"p":"Staring from $3200",
+			"f":"shimmering_dream"
+		}
+		,
+		{
+			"n":"Aquamarine Halo Ring",
+			"d":"14k gold, aquamarine and diamonds",
+			"p":"$1900",
+			"f":"aquamarine_halo_ring"
+		},
+		{
+			"n":"Green Sapphire Organic Solitaire",
+			"d":"14k gold and green sapphire ring",
+			"p":"Starting from $2000",
+			"f":"green_sapphire_organic_solitaire"
+		},
+		{
+			"n":"Green Sapphire Seashore Solitaire",
+			"d":"14k gold and green sapphire ring",
+			"p":"Starting from $1900",
+			"f":"green_sapphire_seashore_solitaire"
+		},
+		{
+			"n":"Earthy Cushion Solitaire Ring",
+			"d":"14k gold and diamond ring",
+			"p":"Starting from $5000",
+			"f":"earthy_cushion_solitaire_ring"
+		},
+		{
+			"n":"Faceted Mens Band",
+			"d":"14k gold band",
+			"p":"$1100",
+			"f":"faceted_mens_band"
+		},
+		{
+			"n":"Green Sapphire Halo Ring",
+			"d":"14k gold and green sapphire and diamonds",
+			"p":"Starting from $2800",
+			"f":"green_sapphire_seashore_halo"
+		},
+		{
+			"n":"Brushed Set",
+			"d":"14k gold bands",
+			"p":"$1050 (his) $610 (hers)",
+			"f":"brushed_set"
+		},
+		{
+			"n":"Six Prong Seashore Solitaire Ring",
+			"d":"14k gold and diamond ring",
+			"p":"Starting from $5000",
+			"f":"six_prong_seashore_solitaire_ring"
+		},
+		{
+			"n":"Ancient Promise Sapphire Ring",
+			"d":"14k gold and sapphire ring",
+			"p":"Starting from $2000",
+			"f":"ancient_promise_sapphire_ring"
+		},
+		{
+			"n":"Blue Sapphire Cushion Halo Ring",
+			"d":"14k gold, sapphire and diamonds",
+			"p":"Starting from $2800",
+			"f":"blue_sapphire_cushion_halo_ring"
+		}
+	]
+}

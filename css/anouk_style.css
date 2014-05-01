@@ -1,0 +1,231 @@
+/* -------------------------------------------------------------- 
+   
+ 	Site by Opus 6 web development: www.opus-6.com
+ 	Author: Apollo Tang 
+ 	Email: apollo@opus-6.com
+  
+-------------------------------------------------------------- */
+
+
+/* typography global */
+* {letter-spacing:normal;}
+li {list-style-type: none; }
+h1 {
+	font: 15px/1 "TrajanProRegular", Georgia, Palatino, "Times New Roman", Times, serif;
+	color: rgb(191, 204, 203);letter-spacing: 1px;
+	}
+h2 {
+	font: 24px/1  "TrajanProRegular", Georgia, Palatino, "Times New Roman", Times, serif;
+	color: rgb(191, 204, 203);
+	}
+
+p {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #728280;
+	text-align: justify;
+	line-height: 1.4em;
+	margin-bottom:10px;
+}
+em {background-color:transparent;}	
+	
+
+p.emphasis { 
+	color: #728280;
+		  }
+
+li {
+	list-style-type: none; 
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #728280;	
+	line-height: 1.4;
+	}
+
+/*font-size for individual page */
+#contact #content li,
+#custom p,
+#philosophy p,
+#about p,
+#wedding_customs p
+{ font-size:13px;}
+
+
+/* veritical space */
+.v-space-15 {height:15px;}
+.v-space-20 {height:20px;}
+
+/* page title typography */
+#page-title-box h1 {
+	font: 24px/1  "TrajanProRegular", Georgia, Palatino, "Times New Roman", Times, serif;
+	color: #adbfbe;
+	}
+#page-title-box #page-title {}
+#page-title-box .tag-line {
+	font: 17px/1  "Times New Roman", Times, serif;
+	font-style:italic;
+	color: #5b6f6d;
+	}
+
+
+/* theme color */ 
+#nav-main {background-color:  rgb(138, 157, 155);} 
+#nav-sub {background-color:  rgb(208, 217, 208);}  
+#wrap-body{ border: 1px solid rgb(208, 217, 208); 
+			border-top: 0px solid rgb(208, 217, 208);}
+
+/* color 
+
+text 728280 
+tag : 697c7a
+hover: 405352
+page title: adbfbe
+hover: 607a77
+
+*/
+	
+/* General link */ 
+a { color:#607A77; text-decoration:none; }
+a:link, a:visited, a:active { 
+	color:#607A77; text-decoration:none;}
+a:hover { 
+	color:#607A77; text-decoration:none; }
+
+/* content link */
+#content a:link, #content a:visited, #content a:active { 
+	color:#607A77; text-decoration:none; border-bottom: dotted 0px #607A77; font-weight:bold;}
+#content a:hover {
+	color:#607A77; text-decoration:none; border-bottom: dotted 1px #607A77; }
+	 
+
+/* content link emphasis */
+#content .emphasis a:link, #content .emphasis a:visited, #content .emphasis a:active { 
+	color: #607A77; text-decoration:none; border-bottom: dotted 0px #607A77;}
+#content .emphasis a:hover { 
+	color:#607A77; text-decoration:none; border-bottom: dotted 1px #607A77; } 	
+
+/* collections-tab: nounderline (use for image link or box link )*/
+#collections-tab a:link, #collections-tab a:visited, #collections-tab a:active { 
+	color:rgb(138, 157, 155); text-decoration:none; border-bottom: dotted 0px rgb(138, 157, 155);}
+#collections-tab a:hover { 
+	color:rgb(98, 111, 110); text-decoration:none; border-bottom: dotted 0px rgb(98, 111, 110);}
+
+	
+/* content link no-underline (use for image link or box link )*/
+#content a.no-underline:link, #content a.no-underline:visited, #content a.no-underline:active { 
+	color:rgb(138, 157, 155); text-decoration:none; border-bottom: dotted 0px rgb(138, 157, 155);}
+#content a.no-underline:hover { 
+	color:rgb(98, 111, 110); text-decoration:none; border-bottom: dotted 0px rgb(98, 111, 110);}
+
+
+/* Navigation styling Begins ......................................... */
+	
+	/* navigation decoration */	
+ul.nav { list-style-type: none; }
+ul.nav li a { font-size:12px; line-height:14px; font-weight: normal; text-decoration: none;  }
+
+#nav-main ul.nav li.separator {background-color:rgb(220, 220, 220);}
+#nav-main ul.nav a:link, #nav-main ul.nav a:visited, #nav-main ul.nav a:active { color:rgb(220, 220, 220); }
+#nav-main ul.nav a:hover { color:#fff;  text-decoration:none; }
+#nav-main ul.nav li a.active-navlink {color:#fff; text-decoration:none; }
+
+#nav-sub ul.nav li.separator {background-color:rgb(138, 157, 155);}
+#nav-sub ul.nav a:link, #nav-sub ul.nav a:visited, #nav-sub ul.nav a:active { color:rgb(138, 157, 155); }
+#nav-sub ul.nav a:hover { color:#626f6e; text-decoration:none;}
+#nav-sub ul.nav li a.active-navlink  {color:#626f6e; text-decoration:none; }
+
+#nav-foot ul.nav li.separator {background-color:rgb(138, 157, 155);}
+#nav-foot ul.nav a:link, #nav-foot ul.nav a:visited, #nav-foot ul.nav a:active { color:rgb(138, 157, 155); }
+#nav-foot ul.nav a:hover { color:#626f6e; text-decoration:none; }
+#nav-foot ul.nav li a.active-navlink  {color:#626f6e; text-decoration:none; ;}
+/* Navigation styling Ends*/
+
+
+
+
+/* styling credit */
+div#foot-one p, div#foot-one ul li a { font-size:10px; }
+#credit { 
+	float:left; 
+	color: rgb(138, 157, 155) ; 
+	}
+#credit a:link, #credit a:active, #credit a:visited  { font-size:10px; color:#728280;text-decoration:none; }
+#credit a:hover { color:#405352; text-decoration:none; }
+
+
+/* individual page styling */
+
+
+#philosophy #text-content p {
+	text-align: left;
+	}
+	
+#anouk_for_her #text-content p {
+	text-align: left;
+	}
+
+#wedding_customs #text-content p {
+	text-align: left;
+	}
+
+
+
+
+
+
+
+
+
+
+/* Collections pages Begin .......................................................*/
+
+#collections div#wrap-content {		}
+		
+	/*page title */
+#page-title { } 
+#page-title h2 { }
+#page-logo{	}
+
+	/* collections tab */
+#collections-tab li {}
+#collections-tab li a {}
+#collections-tab li a img { }
+#collections-tab li a span {
+	font: 16px/1 "TrajanProRegular", Georgia, Palatino, "Times New Roman", Times, serif;
+	color: #8A9D9B; /*#728280;*/
+	letter-spacing: 0;
+	}	
+	
+/* Collections pages Ends */
+
+
+
+
+
+
+/* Custom pages Begin .......................................................*/
+
+
+#home #content { 	}
+#home .image-box-1  {}
+#home .image-box-2  {}
+#home  .tag-line-1, #home  .tag-line-2  {
+	font: 17px/1  "Times New Roman", Times, serif;
+	font-style:italic;
+	color: #697c7a;
+}
+
+
+/* PRESS pages Begin .......................................................*/
+
+#press #page-title-box  #page-title h1 {
+font: 24px/1  "TrajanProRegular", Georgia, Palatino, "Times New Roman", Times, serif;
+ }	
+
+
+
+/*experiment*/
+/* #philosophy em {font-family: "Times New Roman", Times, serif; font-size:15px;} */
+
+
+/* Custom pages Ends */

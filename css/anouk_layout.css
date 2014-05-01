@@ -1,0 +1,867 @@
+/* -------------------------------------------------------------- 
+   
+ 	Site by Opus 6 web development: www.opus-6.com
+ 	Author: Apollo Tang 
+ 	Email: apollo@opus-6.com
+  
+-------------------------------------------------------------- */
+
+.float-right {float:right;}
+
+#wrap-all {
+	width:960px;
+	margin:0px auto; 
+	position:relative; }
+
+#wrap-head, #wrap-body, #wrap-tail { width:100%;}
+#wrap-head {} 
+#wrap-body {min-height:550px; width:958px;}
+#wrap-tail {margin-bottom:100px;}
+#banner {height:85px; width:100%;}
+
+div#wrap-content {
+	float:left;
+	overflow:hidden;
+	width:100%; height:550px;
+	position:relative;  /* content position reference */
+	}
+	
+#foot-one {overflow:hidden; width:100%; clear:both; margin-top: 2px;}	
+#foot-two {overflow:hidden; width:100%; clear:both; margin-top: -2px;}
+	
+/* banner */
+#banner h1 {position:absolute; top:-1000px;}  /* for web-crowler only */
+#site-logo {
+	position:absolute; left:-60px; top:6px;
+	margin:0;
+	width:250px; height:70px;
+	background: url(../imgs/site_logo250x70.png) no-repeat bottom;
+}
+#site-logo a { float: left; overflow: hidden; width:100%; height:100%; }
+
+/* positioning in foot-one */
+div#credit {float:left; width:250px;}
+div#nav-foot {float:right; width: 700px; margin-top:7px; }
+
+/* nav bar layout */
+ul.nav {
+	margin:0px; padding:0px;
+	overflow:hidden;
+	}
+ul.nav li {
+	float: left; overflow:hidden;
+	}
+ul.nav li a { 
+	padding: 2px 15px;
+	}
+ul.nav li.separator {
+	position:relative; top:0px; width:1px; height:15px; overflow:hidden;
+	}
+#nav-main, #nav-sub, #nav-foot {width:100%}
+
+div#nav-main {height:17px; padding-top:6px; padding-bottom:3px; width:960px;}
+div#nav-sub  {height:16px; padding-top:5px; padding-bottom:4px;}
+div#nav-foot {height:14px; padding-top:0px; padding-bottom:0px; float:right; }	
+	
+div#nav-main ul.nav, div#nav-sub ul.nav  {
+	margin-left:20px;
+	}
+div#nav-foot ul.nav li {
+	float:right; overflow:hidden;
+	}
+
+/* credit */ 
+#credit { float:left;  }
+#credit p {margin:0px;}
+
+/* social plugin */
+#facebook, #tweeter { float:left; }
+
+
+
+
+
+
+
+/* Page title box Begin .......................................................*/
+
+				/*  debug 				
+
+				#page-title-box { background-color:#ddd; } 
+				#page-title-box #page-logo-2 { 	outline: 0px solid red; background-color:#aaa;	}
+				#page-title-box h1 { outline:0px blue solid; background-color:#bbb;	}
+				#page-title-box #page-title {outline:0px green solid;  background-color:#abb;}
+				#page-title-box .tag-line  { background-color:yellow; outline:0px black solid;}
+				*/
+#page-title-box {
+	width:500px; height: 73px;
+	position: static; /* over ride global */
+	float:left;
+	} 
+
+#page-title-box #page-logo {
+	width:73px; height:73px;
+	background: url(../imgs/page_title_logo_2_72x73.jpg) no-repeat bottom;	
+	float:left; margin:0; padding:0; 
+	}
+#page-title-box h1 {
+	width:400px;
+	/*position: relative;  without this h1 box will flush with parent div */
+	float:left; margin:0; padding:0;
+	margin-left:5px; margin-top:17px;
+	/* top:0px; */
+	}
+#page-title-box #page-title {
+	width:400px;
+	margin:0; padding:0;
+	}
+#page-title-box .tag-line  {
+	width:400px;
+	margin:0; padding:0; 
+	margin-top:5px; 
+	padding-bottom:2px; padding-left:2px;
+	}
+/* Page title box Begin Ends */
+
+
+
+
+
+
+
+
+
+
+
+
+/* About pages Begin .......................................................*/
+
+		/* debug
+		#about .left-column { background-color:#eee;}
+		#about .centrer-column {background-color:#baa;}
+		#about .right-column {background-color:#cac;} 
+		#about #about-text-content {background-color:#fff;}
+		*/
+#about .left-column { }
+#about .right-column {
+	float:right; width:470px;  height:550px;
+	margin: 0px 100px 0 0;
+	overflow:hidden; position:static;
+	}
+
+#about #about-text-content {
+	position:static; float:left; width:445px;
+	margin:25px 0 0 25px; 
+	}
+
+#about .image-box-1 {
+	position:absolute; top:70px; left:44px;/*left:80px;*/ 
+	width: 273px; height:410px;
+	margin-left: 0px; padding:0px;}
+
+/*page title */
+#about #page-title-box { 	margin-top: 57px; margin-left:-10px;} 
+#about #page-title-box #page-logo {}
+#about  #page-title-box h1 { }
+#about #page-title-box #page-title {}
+#about #page-title-box .tag-line  {}
+
+#about #tweek-1 {text-align:right; margin-top:-5px;}
+
+/* About pages Ends */
+
+
+
+
+
+
+
+
+
+/* Philosophy pages Begin .......................................................*/
+
+		/* debug
+		#philosophy .column { background-color:#eee;}
+		#philosophy .left-column { background-color:#eee;}
+		#philosophy .centrer-column {background-color:#baa;}
+		#philosophy .right-column {background-color:#cac;} 
+		#philosophy #philosophy-text-content {background-color:#fff;}
+		*/
+/**/
+#philosophy #wrap-all { position: relative;   }
+#philosophy .background-image { position: absolute;	top:112px;}
+#philosophy #wrap-head {}
+#philosophy #wrap-body {}
+#philosophy #wrap-content {	position: relative;  }
+
+#philosophy #content { }
+	
+		
+#philosophy .background-image {
+	background: url(../imgs/page_philosophy/jewellery_designer_inspiration400x344.jpg) no-repeat left top;
+	height:344px; width: 400px;
+	}
+	/* also see bahaviour.css */
+	
+#philosophy .column {
+	float:right; width:770px;  height:550px;
+	overflow:hidden; position:static;
+	}
+
+#philosophy #text-content {
+	clear:both;
+	position: relative;	top:90px; 	left:40px;
+	width:700px;
+	}
+
+#philosophy #text-content p {
+	margin-right:50px;
+	}
+	
+#philosophy .image-box  {
+	float:right;
+	width: 226px; height:184px;
+	margin-left:35px
+	}		
+
+/*page title */
+#philosophy #page-title-box {
+	position: relative;	top:60px; 	left:145px; 
+	} 
+#philosophy #page-title-box #page-logo {}
+#philosophy  #page-title-box h1 { }
+#philosophy #page-title-box #page-title { width: 190px; margin-top:0px;}
+#philosophy #page-title-box .tag-line  { width: 190px;}
+
+
+/* tweek*/
+#philosophy .tweek-1 {text-indent: -.6em; margin-left: .6em; }
+#philosophy p.tweek-2 {text-align:right; margin-top:-5px;}
+
+
+/* Philosophy pages Ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Custom pages Begin .......................................................*/
+
+		/* debug
+		#custom .column { background-color:#eee;}
+		#custom .left-column { background-color:#eee;}
+		#custom .centrer-column {background-color:#baa;}
+		#custom .right-column {background-color:#cac;} 
+		#custom #custom-text-content {background-color:#fff;}
+		*/
+#custom .left-column { }
+#custom .column {
+	float:right; width:770px;  height:550px;
+	margin: 25px 0 0 0;
+	overflow:hidden; position:static;
+	}
+
+#custom #custom-text-content {
+	position:static; float:left; width:550px;
+	margin:35px 0 0 25px; 
+	}
+
+#custom .image-box-1  {
+	position:absolute; top:190px; left:30px;
+	width: 160px; height:130px;
+	margin: 0px; padding:0px;}
+
+#custom .image-box-2  {
+	position:absolute; top:100px; right:20px; 
+	width: 160px; height:130px;
+	margin: 0px; padding:0px;}
+
+#custom .image-box-3  {
+	float:right;
+	width: 160px; height:130px;
+	margin-left:25px
+	}		
+
+/*page title */
+#custom #page-title-box { 	margin-top: 10px; margin-left:-10px;} 
+#custom #page-title-box #page-logo {}
+#custom  #page-title-box h1 { }
+#custom #page-title-box #page-title {}
+#custom #page-title-box .tag-line  {}
+
+#custom .tweek-1 {text-indent: -.6em; margin-left: .6em; }
+
+/* Custom pages Ends */
+
+
+
+
+
+
+
+
+
+/* Raw Diamonds pages Begin .......................................................*/
+/* note underscore instead of dash in the id "raw_diamonds" */
+
+
+/* raw diamonds page layout */
+		/* debug
+		#raw_diamonds .left-column { background-color:#aaa;}
+		#raw_diamonds .centrer-column {background-color:#baa;}
+		#raw_diamonds .right-column {background-color:#cac;}
+		#raw_diamonds #raw-diamonds-content {background-color:#aab;}
+		*/
+#raw_diamonds .left-column { width:191px; float:left; height:550px;}
+#raw_diamonds .center-column { width:576px;  float:left; height:550px;}
+#raw_diamonds .right-column { width:191px;  float:right; height:550px;}
+
+#raw_diamonds #raw-diamonds-content {position:relative;  float:left;
+	padding-top:35px; 
+	padding-left:10px; 
+	padding-right:10px;}
+
+#raw_diamonds .left-column img {margin-left: 40px; padding-top:150px;} 
+#raw_diamonds .right-column img {margin-left: 30px; padding-top:350px;}
+
+
+/*page title */
+#raw_diamonds #page-title-box {	margin-top: 30px; margin-left:-30px;} 
+#raw_diamonds #page-title-box #page-logo {}
+#raw_diamonds  #page-title-box h1 {	
+	width:400px;
+	}
+#raw_diamonds #page-title-box #page-title {}
+#raw_diamonds #page-title-box .tag-line  {}
+
+#raw_diamonds .tweek-1 {text-indent: -.5em; margin-left: .5em;}
+
+/* Raw Diamonds pages Ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Collections pages Begin .......................................................*/
+
+#collections div#wrap-content {		
+	/*background-color:#eee;*/
+		float:left;
+		overflow:hidden;
+		width:100%; height:550px; 
+		position:relative;  /* content position reference */
+		}
+		
+
+/*page title */
+#collections #page-title-box { margin-top: 30px; margin-left: 100px; } 
+#collections #page-title-box #page-logo {background: url(../imgs/page_title_logo_1_72x73.jpg) no-repeat bottom;	}
+#collections #page-title-box h1 {width:400px; }
+#collections #page-title-box #page-title { width:300px; margin:0; padding:0; margin-top:10px;}
+#collections #page-title-box .tag-line  {}
+
+/* colections tab */
+
+#collections-tab {
+	/* background-color:#ddd; */
+	height:400px; width:850px; float:left; overflow:hidden;
+	margin: 35px 54px; padding: 0; border-width:0;
+	margin-top:0px;
+}
+
+#collections-tab ul {
+	width:100%; float:left; overflow:hidden;
+	padding:0; margin:0px;
+}
+
+#collections-tab li {
+	/* background-color:#ccc;  */
+	outline: red 0px solid;
+	height:200px; width:210px; float:left;
+}
+
+#collections-tab li a {
+	outline:blue 0px solid; overflow:hidden; float:left; 
+	width:180px; padding:10px 20px 10px 18px;
+}
+
+#collections-tab li a img {
+	outline:green 0px solid;
+	height:146px; width:180px;
+}
+
+#collections-tab li a span {
+	outline:yellow 0px solid;
+	height:20px; width:180px; float:left; overflow:hidden;
+	margin-top:5px;
+	text-align: center;
+}	
+/* Collections pages Ends */
+
+
+
+
+
+
+
+
+
+
+
+
+/* ANOUK FOR HER pages Begin .......................................................*/
+/* note underscore instead of dash in the id "anouk_for_her" */
+
+
+		/* debug
+		#anouk_for_her .column { background-color:#eee;}
+		#anouk_for_her .left-column { background-color:#eee;}
+		#anouk_for_her .centrer-column {background-color:#baa;}
+		#anouk_for_her .right-column {background-color:#cac;} 
+		#anouk_for_her #anouk_for_her-text-content {background-color:#fff;}
+		*/
+
+#anouk_for_her .column {
+	float:right; width:770px;  height:550px;
+	margin: 0;
+	position:static;
+	}
+
+#anouk_for_her #text-content {
+	clear:both;
+	position:static;  width:700px;
+	margin:0;
+	padding-top:40px;
+	}
+
+#anouk_for_her .image-box  {
+	float:right;
+	width: 250px; height:130px;
+	margin-left:25px
+	}		
+
+/*page title */
+#anouk_for_her #page-title-box { 	margin-top: 25px;  margin-left:-35px;} 
+#anouk_for_her #page-title-box #page-logo {}
+#anouk_for_her  #page-title-box h1 { }
+#anouk_for_her #page-title-box #page-title {}
+#anouk_for_her #page-title-box .tag-line  {}
+
+/*tweek etc.. */
+#anouk_for_her .tweek-1 {text-indent: -.6em; margin-left: .6em; }
+#anouk_for_her #text-content p {padding-right:100px;}
+/* ANOUK FOR HER pages Ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Contact pages Begin .......................................................*/
+
+		/* debug
+		#contact .left-column { background-color:#eee;}
+		#contact .centrer-column {background-color:#baa;}
+		#contact .right-column {background-color:#cac;} 
+		#contact #contact-content {background-color:#fff;}
+		*/
+#contact .left-column { width:608px; float:left; height:550px; margin-left:100px;}
+#contact .right-column { 
+	position:absolute; bottom:56px; right:50px;
+	width:350px;  height:157px;}
+
+#contact #contact-content {
+	position:relative;  float:left; width:100%;
+	padding:15px 0 0 0; 
+	}
+
+#contact .right-column img { margin-left: 0px; padding:0px;}
+
+/*page title */
+#contact #page-title-box { 	margin-top: 50px;  margin-left:-25px;} 
+#contact #page-title-box #page-logo {}
+#contact  #page-title-box h1 { }
+#contact #page-title-box #page-title { margin-top:8px;}
+#contact #page-title-box .tag-line  {}
+
+#contact #content ul {}
+#contact #content ul li {padding-top:10px;}
+#contact #content ul li ul {padding-top:3px; padding-left:5px; margin-left:10px;}
+#contact #content ul li ul li { padding:5px 0 0 0; list-style-type:circle;}
+/* Contact pages Ends */
+
+
+
+
+
+
+
+
+
+
+
+
+/* Home pages Begin .......................................................*/
+
+#home #banner {height: 45px;}
+#home #site-logo {position:absolute; left:-6000px;}
+#home #content { 	}
+#home .image-box-1  {position:absolute; top:1px; left:1px; }
+#home .image-box-2  {position:absolute; top:140px; right:128px; }
+#home #tag-line-box { 
+	position: absolute; 
+	width:445px; height:50px;
+	bottom:100px; right:1px;}
+#home #tag-line-box-inner {
+	width:370px; height:50px; 
+	margin:0 auto;
+	}
+#home  .tag-line-1  {padding-bottom:5px;}
+#home  .tag-line-2  {text-align:right;}
+/* Custom pages Ends */
+
+
+
+
+
+
+
+
+
+
+
+
+/* Testimonials pages Begin .......................................................*/
+
+		/* debug
+		#testimonials #page-content { background-color:#ddd;}
+		#testimonials .testimonials-box {background-color:#baa;}
+		#testimonials .testimonials-box-inner {background-color:#cac;} 
+		#testimonials #testimonials-content {background-color:#fff;}
+		#testimonials .testimonials-box p:first-child { background-color:#aba;}
+		#testimonials .testimonials-box p:first-child + p { background-color:#cba;}
+		*/
+
+
+/*page title */
+#testimonials #page-title-box {	position:absolute; top:25px;; left:50px;	} 
+#testimonials #page-title-box #page-logo {	background: url(../imgs/page_title_logo_1_72x73.jpg) no-repeat bottom;	}
+#testimonials  #page-title-box h1 { }
+#testimonials #page-title-box #page-title { margin-top:8px;}
+#testimonials #page-title-box .tag-line  {}
+
+
+/*content box */
+#testimonials #page-content {
+	top: 125px; left:80px;
+	position:absolute;  width:840px; height:400px;
+	}
+
+/*column*/
+#testimonials #left-column{ width:420px; float:left;}
+#testimonials #right-column{ width:420px; float:left;}
+
+	
+#testimonials .testimonials-box{
+	width:420px; float:left;
+	overflow:hidden;
+	}
+#testimonials .testimonials-box-inner{
+	padding-right:40px;	padding-bottom:20px; width:380px; float:left;
+	}
+	
+#testimonials .testimonials-box p {margin-bottom:0px;}	
+#testimonials .testimonials-box p:first-child { text-indent:-7px; margin-left:7px; margin-bottom:.5em; }
+#testimonials .testimonials-box p:first-child + p {text-align:left; padding-left:7px;}
+#testimonials .testimonials-box span.inline-space-hack{font-size:.7em; } /* hack to get rid of in consistence &nbsp; width */
+
+
+ 
+/*image box */
+#testimonials .image-box { 
+	position:absolute; bottom:6px; right:40px;
+	width:367px;  height:127px;}
+
+/* Testimonials pages Ends */
+
+
+
+
+
+
+
+
+
+
+
+
+/* PRESS pages Begin .......................................................*/
+
+		/* debug
+
+		#press #page-title-box  {background-color:#baa;}
+		#press #page-title-box  h1 {background-color::aee;}
+		#press #page-title-box  #page-title {background-color:#ddd;}
+		#press #page-content { background-color:#ddd;}
+		#press #page-content { outline: 1px green solid;}
+		#press .jcarousel-container { outline:1px black solid; }
+		#press .jcarousel-clip { outline:1px red solid; }
+		#press ul#carousel { outline:1px blue solid; }		*/
+ 
+
+/*page title */
+#press #page-title-box {position:absolute; top:65px;; left:320px;} 
+#press #page-title-box #page-logo {	background: url(../imgs/page_title_logo_1_72x73.jpg) no-repeat bottom;	}
+#press #page-title-box h1 { }
+#press #page-title-box #page-title { margin-top:8px;}
+#press #page-title-box .tag-line  {}
+
+/*content box */			
+#press #page-content { position:relative; width:958px; height:180px; padding:0; top: 212px;}
+#press .jcarousel-container { position:relative; height:180px; width:800px; margin:0 auto; padding:0; }
+#press .jcarousel-clip-horizontal { position: relative; height:180px; width:680px; margin:0 auto; }
+
+
+#press .jcarousel-next-horizontal {
+    position: absolute;
+    top: 70px;
+    right: 5px;
+    width: 32px;
+    height: 32px;
+	cursor: pointer;
+    background: transparent url(../imgs/page_press/next-horizontal.png) no-repeat 0 0;
+}
+
+#press .jcarousel-direction-rtl .jcarousel-next-horizontal {
+    left: 5px;
+    right: auto;
+    background-image: url(../imgs/page_press/prev-horizontal.png);
+}
+
+#press .jcarousel-next-horizontal:hover,
+#press .jcarousel-next-horizontal:focus {
+    background-position: -32px 0;
+}
+
+#press .jcarousel-next-horizontal:active {
+    background-position: -64px 0;
+}
+
+#press .jcarousel-next-disabled-horizontal,
+#press .jcarousel-next-disabled-horizontal:hover,
+#press .jcarousel-next-disabled-horizontal:focus,
+#press .jcarousel-next-disabled-horizontal:active {
+	cursor: default;
+	background-position: -96px 0;
+}
+
+#press .jcarousel-prev-horizontal {
+    position: absolute;
+    top: 70px;
+    left: 5px;
+    width: 32px;
+    height: 32px;
+	cursor: pointer;
+    background: transparent url(../imgs/page_press/prev-horizontal.png) no-repeat 0 0;
+}
+
+#press .jcarousel-direction-rtl .jcarousel-prev-horizontal {
+    left: auto;
+    right: 5px;
+    background-image: url(../imgs/page_press/next-horizontal.png);
+}
+
+#press .jcarousel-prev-horizontal:hover, 
+#press .jcarousel-prev-horizontal:focus {
+    background-position: -32px 0;
+}
+
+#press .jcarousel-prev-horizontal:active {
+    background-position: -64px 0;
+}
+
+#press .jcarousel-prev-disabled-horizontal,
+#press .jcarousel-prev-disabled-horizontal:hover,
+#press .jcarousel-prev-disabled-horizontal:focus,
+#press .jcarousel-prev-disabled-horizontal:active {
+	cursor: default;
+	background-position: -96px 0;
+}
+
+
+#press ul#carousel {height:180px; width:480px; margin:0 auto; padding:0;} 		
+#press li.jcarousel-item {float:left; height:170px; width:130px; margin:5px 15px; border: 1px solid #8a9d9b; }
+
+/* Override the width of the carousel list element but leave the padding and height the same */ 
+#press li.wide { width:168px; }
+
+#press li.jcarousel-item a, #press li.jcarousel-item a:link, #press li.jcarousel-item a:visited, #press li.jcarousel-item a:active {
+	float:left; height:160px; width:120px; padding:5px; border-width:0px;
+	outline-width:0px; }
+#press li.jcarousel-item a:hover { border-width:0px;
+	outline-width:0px; }
+#press li.jcarousel-item a img {}
+
+
+
+
+/* PRESS pages Ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Policies pages Begin .......................................................*/
+
+		/* debug
+		#policies #page-content { background-color:#ddd;}
+		#policies .item-box {background-color:#baa;}
+		#policies .item-box-inner {background-color:#cac;} 
+		#policies #policies-content {background-color:#fff;}
+		#policies .item-box p:first-child { background-color:#aba;}
+		#policies .item-box p:first-child + p { background-color:#cba;}
+		*/
+
+
+/*page title */
+#policies #page-title-box {	position:absolute; top:30px;; left:50px;	} 
+#policies #page-title-box #page-logo {	background: url(../imgs/page_title_logo_1_72x73.jpg) no-repeat bottom;	}
+#policies  #page-title-box h1 { }
+#policies #page-title-box #page-title { margin-top:8px;}
+#policies #page-title-box .tag-line  {}
+
+
+/*content box */
+#policies #page-content {
+	top: 120px; left:100px;
+	position:absolute;  width:840px; height:400px; float:left; 
+	}
+
+
+	
+#policies .item-box{
+	width:820px; float:left;
+	overflow:hidden;
+	}
+#policies .item-box-inner{
+	padding-right:80px;	padding-bottom:20px; width:760px; float:left;
+	}
+	
+#policies .item-box p {margin-bottom:0px;}	
+#policies .item-box p:first-child {  margin-bottom:.5em; }
+#policies .item-box p:first-child ~ p {text-align:left;  margin-bottom:.5em;}
+
+/* Policies pages Ends */
+
+
+
+
+
+
+
+
+
+
+/* Wedding Customs pages Begin .......................................................*/
+/* note underscore instead of dash in the id "wedding_customs" */
+
+
+		/* debug
+		#wedding_customs .column { background-color:#eee;}
+		#wedding_customs .left-column { background-color:#eee;}
+		#wedding_customs .centrer-column {background-color:#baa;}
+		#wedding_customs .right-column {background-color:#cac;} 
+		#wedding_customs #wedding_customs-text-content {background-color:#fff;}
+		*/
+
+#wedding_customs .column {
+	float:right; width:770px;  height:550px;
+	margin: 0;
+	position:static;
+	}
+
+#wedding_customs #text-content {
+	clear:both;
+	position:static;  width:650px;
+	margin:0;
+	padding-top:40px;
+	}
+
+#wedding_customs .image-box  {
+	float:right; position:relative; top:-10px;
+	width: 171px; height:129px;
+	margin-left:20px
+	}		
+
+/*page title */
+#wedding_customs #page-title-box { 	margin-top: 40px; margin-left:-35px;} 
+#wedding_customs #page-title-box #page-logo {}
+#wedding_customs #page-title-box h1 { }
+#wedding_customs #page-title-box #page-title {}
+#wedding_customs #page-title-box .tag-line  {}
+
+/*tweek etc.. */
+#wedding_customs .tweek-1 {text-indent: -.6em; margin-left: .6em; }
+#wedding_customs #text-content p {padding-right:50px;}
+/* Wedding Customs pages Ends */

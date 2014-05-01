@@ -1,0 +1,125 @@
+/* -------------------------------------------------------------- 
+   
+ 	Site by Opus 6 web development: www.opus-6.com
+ 	Author: Apollo Tang 
+ 	Email: apollo@opus-6.com
+  
+-------------------------------------------------------------- */
+
+
+
+/* gallery layout Begins ............................................*/
+
+.gallery #wrap-content {
+		float:left;
+		overflow:hidden;
+		width:100%; height:550px; 
+		position:relative;  /* content position reference */
+		}
+	
+	/* sub navigation positioning */
+.gallery div#nav-sub  {
+		position: absolute; /*relative to div#wrap-content */
+		top:-25px;
+		}
+	
+
+
+/* Page title box Begin .......................................................*/
+
+				/*  debug 
+				.gallery #page-title-box { background-color:#ddd; } 
+				.gallery #page-title-box #page-logo-2 { 	outline: 0px solid red; background-color:#aaa;	}
+				.gallery #page-title-box h1 { outline:0px blue solid; background-color:#bbb;	}
+				.gallery #page-title-box #page-title {outline:0px green solid;  background-color:#abb;}
+				.gallery #page-title-box .tag-line  { background-color:yellow; outline:0px black solid;}
+				*/
+				
+.gallery #page-title-box {
+	position:absolute; /*relative to div#wrap-content */
+	left:450px; top:90px;
+	width:390px; height: 78px;
+	z-index:100;
+	} 
+
+.gallery #page-title-box #page-logo {
+	width:73px; height:73px;
+	background: url(../imgs/page_title_logo_1_72x73.jpg) no-repeat bottom;	
+	float:left; margin:0; padding:0; 
+	}
+.gallery #page-title-box h1 {
+	width:305px;
+	position: relative; /* without this h1 box will flush with parent div */
+	float:left; margin:0; padding:0; 
+	margin-top:0px; margin-left:5px;
+	top:0px;
+	}
+.gallery #page-title-box #page-title {
+	width:300px;
+	margin:0; padding:0;
+	margin-top:10px; 
+	}
+.gallery #page-title-box .tag-line  {
+	width:300px;
+	margin:0; padding:0;  
+	}
+/* Page title box Begin Ends */
+
+	
+	/* display box */
+.gallery #display-box {
+		position:absolute; left:100px; top:80px; /*relative to div#wrap-content */
+		overflow: hidden; 
+		width:800px 	!important; /* over write plug-in setting */
+		height:280px  	!important;  /* over write plug-in setting */
+		}
+.gallery .item {
+		width:750px   	!important;  /* over write plug-in setting */
+		height:260px  	!important;  /* over write plug-in setting */
+		}
+.gallery .item img { 
+		float:left; width: 320px;
+		}
+.gallery .item ul { 
+		margin-top: 100px; margin-left:80px;
+		float:left; width: 300px; 
+		}
+.gallery .item ul li {  /* make sure item will not stick out to break float */ 
+		width: 300px;
+		}
+	/* carousel box */
+.gallery #carousel-box{ 
+		position:absolute; top:390px; left:40px;/*relative to div#wrap-content */
+		}
+
+					/* debug 
+					.gallery #display-box {	outline:green solid 0px; 		}
+					.gallery .item {outline:yellow solid 0px; 		}
+					.gallery .item img { outline:blue solid 0px;  		}
+					.gallery .item ul { outline:#0000FF solid 0px; 		}
+					.gallery .item ul li {  }
+					*/
+
+/* gallery layout Ends */
+
+
+
+/* gallery style Begins ............................................*/
+
+	/* display box */
+.gallery .item ul li {
+	margin: 0px 0px 14px;
+	font-size:13px; 
+	line-height: 1.4em; 
+	color: #728280;
+	}
+.gallery .item ul li:first-child { 
+	font-weight:bold;
+	}
+
+	/* carousel box */
+.gallery .jcarousel-skin-custom .jcarousel-container {
+	background-color: #fff !important;  /*over write plug-in setting */
+	}
+
+/* gallery style Ends*/

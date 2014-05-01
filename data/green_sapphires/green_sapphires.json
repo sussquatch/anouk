@@ -1,0 +1,28 @@
+{
+"items": [
+		{
+			"n":"Green Sapphire Organic Solitaire",
+			"d":"14k gold and green sapphire ring",
+			"p":"Starting from $2000",
+			"f":"green_sapphire_organic_solitaire"
+		},
+		{
+			"n":"Green Sapphire Seashore Solitaire",
+			"d":"14k gold and green sapphire ring",
+			"p":"Starting from $1900",
+			"f":"green_sapphire_seashore_solitaire"
+		},
+		{
+			"n":"Green Sapphire Halo Ring",
+			"d":"14k gold and green sapphire and diamonds",
+			"p":"Starting from $2800",
+			"f":"green_sapphire_halo_ring"
+		},
+		{
+			"n":"Green Sapphire Ring",
+			"d":"14k gold and green sapphire ring",
+			"p":"Starting from $1200",
+			"f":"green_sapphire_ring"
+		}
+	]
+}

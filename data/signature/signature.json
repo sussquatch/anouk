@@ -1,0 +1,57 @@
+{
+"items": [
+	{
+		"n":"Blue Lagoon Larimar Ring",
+		"d":"14k gold, larimar and diamond ring",
+		"p":"$2500",
+		"f":"blue_lagoon_larimar_ring"
+	}
+	,
+	{
+		"n":"Spiral Ring",
+		"d":"14k gold and moonstone ring",
+		"p":"$1450",
+		"f":"spiral_ring"
+	}
+	,	
+	{
+		"n":"Sun & Water Aquamarine Ring",
+		"d":"14k gold and aquamarine ring",
+		"p":"$2800",
+		"f":"sun_and_water_ring"
+	}	
+	,	
+	{
+		"n":"Inspiration Well Ring",
+		"d":"14k gold, aquamarine and diamonds",
+		"p":"Starting from $2500",
+		"f":"inspiration_well_ring"
+	}
+	,
+	{
+		"n":"Falling Stars",
+		"d":"14k gold, aquamarine and diamonds",
+		"p":"$3600",
+		"f":"falling_stars"
+	}
+	,
+	{
+		"n":"Waves Stacking Rings",
+		"d":"14k gold and diamonds",
+		"p":"Starting from $3000 (for a set of 3)",
+		"f":"waves_stacking_rings"
+	},
+	{
+		"n":"Morning Sky Ring",
+		"d":"14k gold, aquamarine and diamonds",
+		"p":"$2400",
+		"f":"morning_sky_ring"
+	},
+	{
+		"n":"Underwater Vision",
+		"d":"14k gold and chrysocolla ring",
+		"p":"Starting from $4800",
+		"f":"underwater_vision"
+	}	
+]
+}

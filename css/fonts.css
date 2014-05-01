@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'TrajanProRegular';
+    src: url('../fonts/trajanpro-regular-webfont.eot');
+    src: url('../fonts/trajanpro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/trajanpro-regular-webfont.woff') format('woff'),
+         url('../fonts/trajanpro-regular-webfont.ttf') format('truetype'),
+         url('../fonts/trajanpro-regular-webfont.svg#TrajanProRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+    /* The New Bulletproof @Font-Face Syntax FEBRUARY 3, 2011
+     * see: http://www.fontspring.com/blog/the-new-bulletproof-font-face-syntax/ */

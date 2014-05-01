@@ -1,0 +1,114 @@
+{
+"items": [
+		{
+			"n":"Theodora Ring",
+			"d":"14k gold and tourmalines ring",
+			"p":"$1500",
+			"f":"theodora_ring"
+		}
+		,	
+		{
+			"n":"Emerald Solitaire Ring",
+			"d":"14k gold and emerald ring",
+			"p":"Starting from $1200",
+			"f":"emerald_solitaire_ring"
+		}
+		,	
+		{
+			"n":"Sea Sand Aquamarine Ring",
+			"d":"14k gold and aquamarine ring",
+			"p":"$1250",
+			"f":"sea_sand_aquamarine_ring"
+		}
+		,	
+		{
+			"n":"Moonlight Ring",
+			"d":"14k white gold and moonstone ring",
+			"p":"$1100",
+			"f":"moonlight_ring"
+		}
+		,	
+		{
+			"n":"Chalcedony Pear Ring",
+			"d":"14k gold and chalcedony ring",
+			"p":"$1290",
+			"f":"chalcedony_pear_ring"
+		}
+		,	
+		{
+			"n":"Green Tourmaline Ring",
+			"d":"14k gold and tourmaline ring",
+			"p":"$950",
+			"f":"green_tourmaline_ring"
+		}
+		,
+		{
+			"n":"Oval Aquamarine Ring",
+			"d":"14k gold and aquamarine ring",
+			"p":"Starting from $1400",
+			"f":"oval_aquamarine_ring"
+		}
+		,	
+		{
+			"n":"Pink Tourmaline Ring",
+			"d":"14k gold and tourmaline ring",
+			"p":"$1090",
+			"f":"pink_tourmaline_ring"
+		}
+		,	
+		{
+			"n":"Emerald and Ruby Rings",
+			"d":"14k gold and emerald ring. Starting from $990",
+			"p":"14k gold and ruby ring. Starting from $1100",
+			"f":"emerald_and_ruby_rings"
+		}	
+		,	
+		{
+			"n":"Night Sky Ring",
+			"d":"14k gold and labradorite ring",
+			"p":"$910",
+			"f":"night_sky_ring"
+		}
+	    ,	
+		{
+			"n":"Emerald Band",
+			"d":"14k gold and emerald band",
+			"p":"$800",
+			"f":"emerald_band"
+		}
+		,
+		{
+			"n":"Emerging from the Sea",
+			"d":"14k gold, emerald and diamonds",
+			"p":"Starting from $1950",
+			"f":"emerging_from_the_sea"
+		}
+		,
+		{
+			"n":"Green Sapphire Ring",
+			"d":"14k gold and green sapphire ring",
+			"p":"Starting from $1200",
+			"f":"green_sapphire_ring"
+		}
+		,
+		{
+			"n":"Ruby Sunset Ring",
+			"d":" 14k gold and ruby ring",
+			"p":"Starting from $3500",
+			"f":"ruby_sunset_ring"
+		}
+		,
+		{
+			"n":"Strawberry Fields Band",
+			"d":"14k gold and rubies ring",
+			"p":"Starting from $2300",
+			"f":"strawberry_fields_band"
+		},
+		{	
+			"n":"Ocean Deep Ring",
+			"d":"14k gold, tourmaline and diamonds",
+			"p":"Starting from $1900",
+			"f":"ocean_deep_ring"
+		}
+	]
+}

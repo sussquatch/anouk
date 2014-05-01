@@ -1,0 +1,50 @@
+{
+"items": [
+	{
+		"n":" Seaweed Earrings",
+		"d":"14k gold",
+		"p":"$1690",
+		"f":"seaweed_earrings"	
+	}
+	,
+	{
+		"n":"Mountain Star Studs",
+		"d":"14k gold and diamonds",
+		"p":"$820",
+		"f":"pebble_studs"
+	}
+	,
+	{
+		"n":"Ancient Water Earrings",
+		"d":"14k gold, aquamarines and diamonds",
+		"p":"$3600",
+		"f":"ancient_water_earrings"
+	}
+	,
+	{
+		"n":"Seashore Studs",
+		"d":"14k gold",
+		"p":"$580",
+		"f":"essential_studs"
+	}
+	,
+	{	
+		"n":"Spearhead Earrings",
+		"d":"14k gold",
+		"p":"$610",
+		"f":"spearhead_earrings" 
+	},
+	{
+		"n":"Rough Diamond Halo Earrings",
+		"d":"14k gold, 0.3ct octahedron tops and diamonds",
+		"p":"Starting from $3100",
+		"f":"rough_diamond_halo_earrings"
+	},
+	{
+		"n":"Golden Leaf Earrings",
+		"d":"14k gold",
+		"p":"$800",
+		"f":"golden_leaf_earrings"
+	}
+]
+}

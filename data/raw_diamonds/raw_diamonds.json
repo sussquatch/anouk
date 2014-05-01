@@ -1,0 +1,119 @@
+{
+"items": [
+		{
+			"n":"Diamond Octahedron Ring",
+			"d":"14k gold and diamonds",
+			"p":"starting from $4800",
+			"f":"diamond_octahedron_ring"
+		}
+		,	
+		{
+			"n":"Three Diamonds in the Rough Ring",
+			"d":"14k gold and diamonds",
+			"p":"starting from $5500",
+			"f":"three_rough_diamonds"
+		}
+		,	
+		{
+			"n":"Rough Diamond Halo Ring",
+			"d":"14k gold and diamonds",
+			"p":"starting from $5400",
+			"f":"rough_diamond_halo_ring"
+		}
+		,
+		{	
+			"n":"Rough Diamond Necklace",
+			"d":"14k gold and diamond",
+			"p":"$2200",
+			"f":"rough_diamond_necklace"
+		}
+		,
+		{
+			"n":"Dark Octahedron Halo Ring",
+			"d":"14k gold and diamonds",
+			"p":"Starting from $2500",
+			"f":"dark_octahedron_halo_ring"
+		}
+		,
+		{
+			"n":"Raw Rosecut Pear Ring",
+			"d":"14k gold and diamonds",
+			"p":"starting from $3600",
+			"f":"raw_rosecut_pear_ring"
+		}
+		,
+		{
+			"n":"Raw Diamond Cushion Halo Ring",
+			"d":"14k gold and diamonds",
+			"p":"starting from $2200",
+			"f":"raw_diamond_cushion_halo"
+		}
+		,
+		{
+			"n":"Cloudy Octahedron Ring",
+			"d":"14k gold and diamonds",
+			"p":"$3000",
+			"f":"cloudy_octahedron_ring"
+		}
+		,
+		{
+			"n":"Champagne Octahedron Halo Necklace",
+			"d":"14k gold and diamonds",
+			"p":"Starting from $2000",
+			"f":"champagne_octahedron_halo_necklace"
+		}
+		,
+		{
+			"n":"Canadian Rough Diamond Ring",
+			"d":"14k white gold and diamonds",
+			"p":"Starting from $3500",
+			"f":"canadian_rough_diamond_ring"
+		}
+		,
+		{
+			"n":"Earth and Sky, Cushion",
+			"d":"14k gold and diamonds, featuring a conflict-free rough diamond",
+			"p":"Starting from $2500",
+			"f":"earth_&_sky_cushion_ring"
+		}
+		,
+		{
+			"n":"Earth and Sky, Diamond",
+			"d":"14k gold and diamonds, featuring 0.3ct conflict-free rough diamond",
+			"p":"Starting from $2500",
+			"f":"earth_&_sky_diamond"
+		}
+		,
+		{
+			"n":"Earth and Sky, Halo",
+			"d":"14k gold and diamonds, featuring a conflict-free rough diamond",
+			"p":"Starting from $2400",
+			"f":"earth_&_sky_halo"
+		}
+		,
+		{
+			"n":"Earth and Sky, Solitaire",
+			"d":"14k gold, featuring a conflict-free rough diamond",
+			"p":"Starting from $1500",
+			"f":"earth_&_sky_solitaire"
+		},
+		{
+			"n":"Raw Diamond Asymmetrical Halo Ring",
+			"d":"14k palladium gold and diamonds",
+			"p":"Starting from $2800",
+			"f":"raw_diamond_asymmetrical_halo_ring"
+		},
+		{
+			"n":"Medieval Octahedron Ring",
+			"d":"14k gold and rough octahedron diamond ring",
+			"p":"Starting from $2400",
+			"f":"medieval_octahedron_ring"
+		},
+		{
+			"n":"Rough Diamond Halo Earrings",
+			"d":"14k gold, 0.3ct octahedron tops and diamonds",
+			"p":"Starting from $3100",
+			"f":"rough_diamond_halo_earrings"
+		}
+	]
+}

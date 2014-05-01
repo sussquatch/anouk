@@ -1,0 +1,11 @@
+
+#Ignore .DS_Store
+.DS_Store
+
+#Ignore Vagrant system files
+.vagrant
+
+#Ignore deployment
+deploy*
+
+

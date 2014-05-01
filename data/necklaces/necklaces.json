@@ -1,0 +1,134 @@
+{
+"items": [
+	{
+	"n":"Green Tourmaline Pendant",
+	"d":"14k gold and tourmaline",
+	"p":"$1100",
+	"f":"green_tourmaline_pendant"
+	}
+	,	
+	{
+	"n":"Seaweed Necklace",
+	"d":"14k gold on a 16\" chain",
+	"p":"$1500",
+	"f":"seaweed_necklace"
+	}
+	,	
+	{
+	"n":"Music Pendant",
+	"d":"14k gold and moonstone on a 16\" chain",
+	"p":"$2400",
+	"f":"music_pendant"
+	}
+	,	
+	{
+	"n":"Summer Necklace",
+	"d":"14k gold and chalcedony",
+	"p":"$1200",
+	"f":"summer_necklace"
+	}
+	,	
+	{
+	"n":"Nugget Necklace",
+	"d":"14k gold",
+	"p":"$1150",
+	"f":"nugget_necklace"
+	}
+	,	
+	{
+	"n":"Spearhead Necklace",
+	"d":"14k gold on a 16\" chain",
+	"p":"$690",
+	"f":"spearhead_necklace"
+	}
+	,	
+	{
+	"n":"Solitaire Necklace",
+	"d":"14k gold and moonstone",
+	"p":"$990",
+	"f":"solitaire_necklace"
+	}
+	,	
+	{
+	"n":"Organic Moonstone Necklace",
+	"d":"sterling silver and moonstone",
+	"p":"$450",
+	"f":"organic_moonstone_necklace"
+	}
+	,
+	{
+	"n":"Pebble Necklace",
+	"d":"14k gold and diamond on 16\" chain",
+	"p":"$1800",
+	"f":"pebble_necklace" 
+	}
+	,
+	{
+	"n":"Textured Necklace",
+	"d":"14k gold",
+	"p":"$1200",
+	"f":"textured_necklace"
+	}
+	,
+	{
+		"n":"Golden Leaf Necklace",
+		"d":"14k gold",
+		"p":"$680",
+		"f":"golden_leaf_necklace"
+	}
+	,
+	{	
+		"n":"Blue Well Necklace",
+		"d":"14k gold and aquamarine",
+		"p":"$1350",
+		"f":"blue_well_necklace"
+	}
+	,
+	{	
+		"n":"Raindrop Necklace",
+		"d":"14k gold and diamond",
+		"p":"$1210",
+		"f":"raindrop_necklace"
+	}
+	,
+	{	
+		"n":"Rough Diamond Necklace",
+		"d":"14k gold and diamond",
+		"p":"$2200",
+		"f":"rough_diamond_necklace"
+	}
+	,
+	{
+		"n":"Golden Bead Necklace",
+		"d":"14k gold",
+		"p":"$890",
+		"f":"golden_bead_necklace"
+	}
+	,
+	{
+		"n":"Champagne Octahedron Halo Necklace",
+		"d":"14k gold and diamonds",
+		"p":"Starting from $2000",
+		"f":"champagne_octahedron_halo_necklace"
+	}
+	,
+	{
+		"n":"Mountain Star Necklace",
+		"d":"14k gold and diamond",
+		"p":"$790",
+		"f":"mountain_star_necklace"
+	},
+	{
+		"n":"Loved Necklace",
+		"d":"14k gold and diamonds on 16 in. chain",
+		"p":"Starting from $1500",
+		"f":"loved_necklace"
+	},
+	{
+		"n":"Seashore Dot Necklace",
+		"d":"14k gold on 16 in. chain",
+		"p":"$695",
+		"f":"seashore_dot_necklace"
+	}
+]
+}

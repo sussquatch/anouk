@@ -1,0 +1,17 @@
+/* behaviour init */
+
+	.js #mask {
+		width:958px; height:550px; 
+		position:absolute;  top:0px; left:0px;
+		background-color:#fff; opacity:1; z-index:100;
+		}
+	.js .gallery #mask {
+		width:958px; height:525px; 
+		position:absolute;  top:25px; left:0px;
+		background-color:#fff; opacity:1; z-index:100;
+	}	
+	
+	.background-image {
+		opacity: 0;
+		filter: alpha(opacity=0);
+	}
