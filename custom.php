@@ -83,7 +83,7 @@ $htmlBodyID=strtolower($htmlBodyID);
 		
 		<p>Creating your custom jewelry begins with a conversation. Please <a href="contact.php" title="Contact" alt="Contact">get in touch</a> to tell us more about what you have in mind, and to ask any questions.</p>
 
-		<p>To see past custom designs, take a stroll in our <a href="collections/custom.php?a=y&s=1&item=1" title="Custom" alt="Custom">custom gallery</a>.</p>
+		<p>To see past custom designs, you're welcome to take a stroll in our <a href="collections/custom.php?a=y&s=1&item=1" title="Custom" alt="Custom">custom gallery</a>.</p>
 
 		<p class="clear-both">Found the One? Find out about commissioning a unique <a href="wedding_customs.php" title="Wedding Customs" alt="Wedding Customs">custom engagement ring or wedding bands</a>&hellip;</p>
 	</div>	
