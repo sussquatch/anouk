@@ -82,11 +82,10 @@ $htmlBodyID=strtolower($htmlBodyID);
 		<div class="image-box-3"><img class="float-right" src="imgs/page_custom/custom_engagement_ring_aquamarine160x130.jpg" width="160"/></div>
 		
 		<p>Creating your custom jewelry begins with a conversation. Please <a href="contact.php" title="Contact" alt="Contact">get in touch</a> to tell us more about what you have in mind, and to ask any questions.</p>
-		
-		<p class="clear-both">Found the One? Find out about commissioning a unique <a href="wedding_customs.php" title="Wedding Customs" alt="Wedding Customs">custom engagement ring or wedding bands</a>&hellip;</p>
-		
 
-		
+		<p>To see past custom designs, take a stroll in our <a href="collections/custom.php?a=y&s=1&item=1" title="Custom" alt="Custom">custom gallery</a>.</p>
+
+		<p class="clear-both">Found the One? Find out about commissioning a unique <a href="wedding_customs.php" title="Wedding Customs" alt="Wedding Customs">custom engagement ring or wedding bands</a>&hellip;</p>
 	</div>	
 </div>	
 
