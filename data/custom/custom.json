@@ -1,5 +1,64 @@
 {
 "items": [
-		
+		{		
+			"n":"Custom Green Sapphire Ring",
+			"d":"Inspired by Shelley's cottage lake, the sun, and the stars.",
+			"p":"",
+			"f":"custom_green_sapphire_ring"
+		},
+		{
+			"n":"Custom Family Ring ",
+			"d":"Reusing family diamonds in a meaningful design",
+			"p":" ",
+			"f":"custom_family_ring"
+		},
+		{	
+			"n":"Custom Blue Sapphire Ring",
+			"d":"A ring as unique as its wearer",
+			"p":"",
+			"f":"custom_blue_sapphire_ring"
+		},
+		{	
+			"n":"Custom Ruby Ring",
+			"d":"Poetry in palladium and raw ruby",
+			"p":"",
+			"f":"custom_rough_ruby_ring"
+		},
+		{
+			"n":"Custom Emerald and Garnet Ring",
+			"d":"In memory of a loved one",
+			"p":"",
+			"f":"custom_emerald_garnet_ring"
+		},
+		{
+			"n":"Irina's Custom Ring",
+			"d":"Reusing a family stone and gold in a personal design",
+			"p":"",
+			"f":"irina_custom_ring"
+		},
+		{
+			"n":"Custom Rough Diamond Ring",
+			"d":"Mila's assymetrical halo ring featuring a Canadian diamond",
+			"p":"",
+			"f":"custom_rough_diamond_ring"
+		},
+		{
+			"n":"Custom Moonlight Sapphire Ring",
+			"d":"Risa's truly unconvenional engagement ring",
+			"p":"",
+			"f":"custom_moonlight_sapphire_ring"
+		},
+		{
+			"n":"Custom Ruby Cufflinks",
+			"d":"Reusing meaningful gems",
+			"p":"",
+			"f":"custom_ruby_cufflinks"
+		},
+		{
+			"n":"Custom Turquoise Necklace",
+			"d":"Giving new life to a beautiful stone",
+			"p":"",
+			"f":"custom_turquoise_necklace"
+		}
 	]
 }

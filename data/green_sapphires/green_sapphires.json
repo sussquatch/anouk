@@ -23,6 +23,36 @@
 			"d":"14k gold and green sapphire ring",
 			"p":"Starting from $1200",
 			"f":"green_sapphire_ring"
+		},
+		{
+			"n":"Green Sapphire Prongs Solitaire",
+			"d":"14k gold and green sapphire ring",
+			"p":"Starting from $2000",
+			"f":"green_sapphire_prongs_solitaire"
+		},
+		{
+			"n":"Teal Sapphire Halo Ring",
+			"d":"14k gold, sapphire and diamonds",
+			"p":"Starting from $3000",
+			"f":"teal_sapphire_halo_ring"
+		},
+		{
+			"n":"Emerging from the Sea Sapphire Ring",
+			"d":"14k gold, green sapphire and diamonds",
+			"p":"Starting from $2400 ",
+			"f":"emerging_from_the_sea_sapphire_ring"
+		},
+		{
+			"n":"Ocean Set",
+			"d":"14k gold featuring a green sapphire",
+			"p":"Starting from $2400 for a set",
+			"f":"ocean_sapphire_rings_set"
+		},
+		{
+			"n":"Green Sapphire Cushion Halo Ring",
+			"d":"14k gold, green sapphire and diamonds",
+			"p":"Starting from $3500",
+			"f":"green_sapphire_cushion_ring"
 		}
 	]
 }

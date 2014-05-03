@@ -8,4 +8,6 @@
 #Ignore deployment
 deploy*
 
+#Ignore Thumbs.db
+Thumbs.db
 

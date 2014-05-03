@@ -1,9 +1,10 @@
-# Open port 20000
+
 Exec { path => [ "/bin/", "/sbin/" , "/usr/bin/", "/usr/sbin/" ] }
 
-exec { 
-	'open Anouk port':
-	    command => "iptables -A INPUT -p tcp --dport 20000 -j ACCEPT"
+service {
+	'iptables':
+		enable => false,
+		ensure => "stopped"
 }
 
 #Install Apache
