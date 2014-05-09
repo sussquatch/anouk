@@ -35,20 +35,18 @@
 				<div id="wrap-social-plugin">
 
 					<div id="facebook">
-						<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-						<fb:like href="http://www.facebook.com/pages/Anouk-Jewelry/113533041996730" show_faces="false" width="90" layout="button_count"></fb:like>
+						<a href="http://www.facebook.com/pages/Anouk-Jewelry/113533041996730" target="_blank"><img src="<?php echo $path ?>imgs/facebook.png" class="social-link"></a>
 					</div>
 					
 					<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script> 
 					<div id="tweeter"> 
-					   <a 
-					   		href="http://twitter.com/share" class="twitter-share-button"
-					    	data-url="http://anoukjewelry.com/"
-					    	data-via="ANOUKbyAnat"
-					    	data-text="Check out"
-					    	data-count="horizontal"
-					   >Tweet</a> 
-					</div> 
+						<a href="https://twitter.com/anoukbyanat" target="_blank"><img src="<?php echo $path ?>imgs/twitter.png" class="social-link""></a> 
+					</div>
+					
+					<div>
+						<a href="http://www.pinterest.com/anoukbyanat" target="_blank"><img src="<?php echo $path ?>imgs/pinterest.png" class="social-link""></a> 
+					</div>
+
 				</div>	
 				<!--End: id="wrap-social-plugin" -->
 					

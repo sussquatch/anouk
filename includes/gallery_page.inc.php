@@ -90,6 +90,9 @@ $htmlTitle = "Anouk Jewelry - " . "$n" . " by Toronto Organic Custom Jewellery D
 
 	<div class="item show" data-item="<?php echo $item ?>">
 		<img height="260" width="320" title="<?php echo $n ?>" alt="<?php echo $n ?>" src="../data/<?php echo $galleryName?>/imgs/full/<?php echo "$f"; ?>.jpg">
+		<!-- Please call pinit.js only once per page -->
+		<!-- Please call pinit.js only once per page -->
+		<script type="text/javascript" async  data-pin-color="white" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
 		<ul>
 			<li><?php echo $n ?></li>
 			<li><?php echo $d ?></li>
