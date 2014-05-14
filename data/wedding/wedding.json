@@ -31,8 +31,8 @@
 			"f":"wide_gold_band" }
 		,	
 		{	"n":"Timeless Bands Set",
-			"d":"14k yellow gold & 14k white gold bands",
-			"p":"$1100 (his) $750 (hers)",
+			"d":"14k gold bands",
+			"p":"$1100 (his) $740 (hers)",
 			"f":"timeless_bands_set" }
 		,	
 		{	"n":"Organic Bands Set",
@@ -99,10 +99,10 @@
 		}
 	    ,
 	    {
-	            "n":"Halo of Stars",
-	            "d":"14k yellow gold and diamonds",
-	            "p":"Starting from $4800",
-	            "f":"halo_stars_ring"
+	        "n":"Halo of Stars",
+	        "d":"14k yellow gold and diamonds",
+            "p":"Starting from $4800",
+            "f":"halo_stars_ring"
 	    }
 		,
 		{
