@@ -31,7 +31,7 @@
 
 			<div id="foot-two">
 
-				<!--Begin: id="wrap-social-plugin" --
+				<!--Begin: id="wrap-social-plugin" -->
 				<div id="wrap-social-plugin">
 
 					<div id="facebook">
@@ -48,7 +48,7 @@
 					</div>
 
 				</div>	
-				--End: id="wrap-social-plugin" -->
+				<!--End: id="wrap-social-plugin" -->
 					
 
 			</div>	
