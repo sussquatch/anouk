@@ -3,7 +3,7 @@
 		{
 			"n":"Theodora Ring",
 			"d":"14k gold and tourmalines ring",
-			"p":"$1500",
+			"p":"$1600",
 			"f":"theodora_ring"
 		}
 		,	
@@ -24,7 +24,7 @@
 		{
 			"n":"Moonlight Ring",
 			"d":"14k white gold and moonstone ring",
-			"p":"$1100",
+			"p":"$1200",
 			"f":"moonlight_ring"
 		}
 		,	
@@ -38,7 +38,7 @@
 		{
 			"n":"Green Tourmaline Ring",
 			"d":"14k gold and tourmaline ring",
-			"p":"$950",
+			"p":"$990",
 			"f":"green_tourmaline_ring"
 		}
 		,
@@ -58,7 +58,7 @@
 		,	
 		{
 			"n":"Emerald and Ruby Rings",
-			"d":"14k gold and emerald ring. Starting from $990",
+			"d":"14k gold and emerald ring. Starting from $995",
 			"p":"14k gold and ruby ring. Starting from $1100",
 			"f":"emerald_and_ruby_rings"
 		}	
@@ -66,28 +66,28 @@
 		{
 			"n":"Night Sky Ring",
 			"d":"14k gold and labradorite ring",
-			"p":"$910",
+			"p":"Starting from $910",
 			"f":"night_sky_ring"
 		}
 	    ,	
 		{
 			"n":"Emerald Band",
 			"d":"14k gold and emerald band",
-			"p":"$800",
+			"p":"$860",
 			"f":"emerald_band"
 		}
 		,
 		{
 			"n":"Emerging from the Sea",
 			"d":"14k gold, emerald and diamonds",
-			"p":"Starting from $1950",
+			"p":"Starting from $2100",
 			"f":"emerging_from_the_sea"
 		}
 		,
 		{
 			"n":"Green Sapphire Ring",
 			"d":"14k gold and green sapphire ring",
-			"p":"Starting from $1200",
+			"p":"Starting from $1400",
 			"f":"green_sapphire_ring"
 		}
 		,

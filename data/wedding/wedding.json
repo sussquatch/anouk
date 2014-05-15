@@ -12,7 +12,7 @@
 		,
 		{	"n":"Eternal Gold Band",
 			"d":"14k yellow gold band",
-			"p":"$760",
+			"p":"$780",
 			"f":"eternal_gold_band" }
 		,	
 		{	"n":"Waves Band",
@@ -22,12 +22,12 @@
 		,	
 		{	"n":"Mountain Star Band",
 			"d":"14k gold and diamond band",
-			"p":"Starting from $820",
+			"p":"Starting from $850",
 			"f":"mountain_star_band" }
 		,	
 		{	"n":"Eternal Wide Band",
 			"d":"14k yellow gold band",
-			"p":"$1100",
+			"p":"$1200",
 			"f":"wide_gold_band" }
 		,	
 		{	"n":"Timeless Bands Set",
@@ -37,22 +37,22 @@
 		,	
 		{	"n":"Organic Bands Set",
 			"d":"14k gold bands",
-			"p":"$990 (his) $740 (hers)",
+			"p":"$1100 (his) $740 (hers)",
 			"f":"organic_bands_set" }
 		,	
 		{	"n":"Three Drops Ring",
 			"d":"14k gold, diamond and aquamarines ring",
-			"p":"$2800",
+			"p":"Starting from $2800",
 			"f":"three_drops_ring" }
 		,
 		{	"n":"Seashore Mens Band",
 			"d":"14k gold band",
-			"p":"$990",
+			"p":"$1100",
 			"f":"seashore_mens_band"	}
 		,
 		{	"n":"Seashore Band",
 			"d":"14k gold 3mm band",
-			"p":"$780",
+			"p":"$810",
 			"f":"seashore_band"
 		}
 		,
@@ -64,13 +64,13 @@
 		,
 		{	"n":"Primal Band",
 			"d":"14k white gold band",
-			"p":"$750",
+			"p":"$780",
 			"f":"primal_band"
 		}
 		,
 		{	"n":"Seafoam Band",
 			"d":"14k yellow gold and diamonds",
-			"p":"$1600",
+			"p":"$1800",
 			"f":"seafoam_band"
 		}
 		,
@@ -94,7 +94,7 @@
 		,
 		{	"n":"Michelle Band",
 			"d":"14k yellow gold and diamonds",
-			"p":"$1500",
+			"p":"$1600",
 			"f":"michelle_band"
 		}
 	    ,
@@ -108,14 +108,14 @@
 		{
 			"n":"Moonlight Set",
 			"d":"14k white gold bands",
-			"p":"$990 (his) $610 (hers)",
+			"p":"$1100 (his) $620 (hers)",
 			"f":"moonlight_set"
 		}
 		,
 		{
 			"n":"Extra-fine Seashore Band",
 			"d":"14k gold, 2mm band",
-			"p":"$610",
+			"p":"$620",
 			"f":"extra_fine_seashore_band"
 		}
 		,	
@@ -150,7 +150,7 @@
 		{
 			"n":"Tree Bark Band",
 			"d":"14k yellow gold band",
-			"p":"1100",
+			"p":"1200",
 			"f":"tree_bark_band"
 		}
 		,
@@ -164,7 +164,7 @@
 		{
 			"n":"Aquamarine Halo Ring",
 			"d":"14k gold, aquamarine and diamonds",
-			"p":"$1900",
+			"p":"Staring from $1900",
 			"f":"aquamarine_halo_ring"
 		},
 		{
@@ -200,7 +200,7 @@
 		{
 			"n":"Brushed Set",
 			"d":"14k gold bands",
-			"p":"$1050 (his) $610 (hers)",
+			"p":"$1100 (his) $620 (hers)",
 			"f":"brushed_set"
 		},
 		{

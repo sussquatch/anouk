@@ -3,7 +3,7 @@
 	{
 		"n":"Blue Lagoon Larimar Ring",
 		"d":"14k gold, larimar and diamond ring",
-		"p":"$2500",
+		"p":"$2800",
 		"f":"blue_lagoon_larimar_ring"
 	}
 	,
@@ -17,7 +17,7 @@
 	{
 		"n":"Sun & Water Aquamarine Ring",
 		"d":"14k gold and aquamarine ring",
-		"p":"$2800",
+		"p":"$3200",
 		"f":"sun_and_water_ring"
 	}	
 	,	
@@ -31,7 +31,7 @@
 	{
 		"n":"Falling Stars",
 		"d":"14k gold, aquamarine and diamonds",
-		"p":"$3600",
+		"p":"$3800",
 		"f":"falling_stars"
 	}
 	,
@@ -44,13 +44,13 @@
 	{
 		"n":"Morning Sky Ring",
 		"d":"14k gold, aquamarine and diamonds",
-		"p":"$2400",
+		"p":"$2600",
 		"f":"morning_sky_ring"
 	},
 	{
 		"n":"Underwater Vision",
 		"d":"14k gold and chrysocolla ring",
-		"p":"Starting from $4800",
+		"p":"Starting from $5200",
 		"f":"underwater_vision"
 	}	
 ]
