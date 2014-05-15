@@ -32,6 +32,7 @@
 			<div id="foot-two">
 
 				<!--Begin: id="wrap-social-plugin" -->
+				<!--
 				<div id="wrap-social-plugin">
 
 					<div id="facebook">
@@ -47,8 +48,10 @@
 						<a href="http://www.pinterest.com/anoukbyanat" target="_blank"><img src="<?php echo $path ?>imgs/pinterest.png" class="social-link""></a> 
 					</div>
 
-				</div>	
+				</div>
+				-->	
 				<!--End: id="wrap-social-plugin" -->
+
 					
 
 			</div>	

@@ -9,7 +9,6 @@
 				<h1>Anouk Jewelry <p class="tagline">Inspired by nature and the ancient world</p> </h1>
 				<div id="site-logo"><a href="http://anoukjewelry.com" title="home" alt="home" ></a></div>
 
-				<!--
 				<div id="wrap-social-plugin">
 
 					<div id="facebook">
@@ -26,8 +25,7 @@
 					</div>
 
 				</div>
-				-->
-					
+
 			</div>
 			<!--End: id="banner" -->
 
