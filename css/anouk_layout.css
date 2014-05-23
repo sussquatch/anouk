@@ -800,6 +800,7 @@ div#nav-foot ul.nav li {
 	width:840px; 
 	height:400px; 
 	float:left; 
+	overflow-y: auto;
 	overflow-x: hidden;
 }
 

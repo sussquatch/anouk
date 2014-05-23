@@ -70,7 +70,7 @@ $htmlBodyID=strtolower($htmlBodyID);
 </div>
 
 
-<div id="page-content" style="overflow: auto">
+<div id="page-content">
 	
 				
 			<div class="item-box"><div class="item-box-inner">
