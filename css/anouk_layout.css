@@ -794,9 +794,14 @@ div#nav-foot ul.nav li {
 
 /*content box */
 #policies #page-content {
-	top: 120px; left:100px;
-	position:absolute;  width:840px; height:400px; float:left; 
-	}
+	top: 120px; 
+	left:100px;
+	position:absolute;  
+	width:840px; 
+	height:400px; 
+	float:left; 
+	overflow-x: hidden;
+}
 
 
 	
