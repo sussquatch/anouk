@@ -59,6 +59,30 @@
 			"d":"Giving new life to a beautiful stone",
 			"p":"",
 			"f":"custom_turquoise_necklace"
+		},
+		{
+			"n":"Custom Rough Diamond Wedding Set",
+			"d":"Adorned with the couple's birthstones",
+			"p":"",
+			"f":"birthstones_custom_wedding_set"
+		},
+		{
+			"n":"Custom Ruby Wedding Set",
+			"d":"Inspired by sunsets and poppies",
+			"p":"",
+			"f":"sunset_ruby_wedding_set"
+		},
+		{
+			"n":"Custom Aquamarine Cushion Halo Ring",
+			"d":"Statement engagement ring in pastels",
+			"p":"",
+			"f":"milky_aquamarine_cushion_halo_ring"
+		},
+		{
+			"n":"Leaf Wedding Bands",
+			"d":"Inspired by Nature's evolution",
+			"p":" ",
+			"f":"leaf_inspired_rings"
 		}
 	]
 }
