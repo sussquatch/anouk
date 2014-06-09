@@ -215,6 +215,16 @@ div#foot-one p, div#foot-one ul li a { font-size:10px; }
 	color: #697c7a;
 }
 
+#home .tag-line {
+	font: 13px  sans-serif , Arial, "Times New Roman", Times;
+	letter-spacing: 2px;
+	color: rgb(138, 157, 155);
+	font-style: normal;
+	font-weight: lighter;
+	text-transform: uppercase;	
+	text-align: center;
+}
+
 
 /* PRESS pages Begin .......................................................*/
 

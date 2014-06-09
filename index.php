@@ -68,8 +68,11 @@ $htmlBodyID=strtolower($htmlBodyID);
 <div class="image-box-1"><img src="imgs/page_home/anouk_jewelry_unique_rings.jpg" width="507"/></div>
 <div class="image-box-2"><img src="imgs/page_home/landing_pg_logo200x188.jpg" width="200"/></div>
 <div id="tag-line-box"><div id="tag-line-box-inner">
+	<!--
 	<div class="tag-line-1"><em>&ldquo;&nbsp;You cannot think of treasure</em></div>
 	<div class="tag-line-2"><em>without having your imagination sparked.&nbsp;&rdquo;</em></div>
+	-->
+	<div class="tag-line">Imagination, sparked</div>
 </div></div>
 
 				</div>
