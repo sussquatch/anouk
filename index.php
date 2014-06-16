@@ -65,7 +65,7 @@ $htmlBodyID=strtolower($htmlBodyID);
 
 					<div id="logo">
 
-						<img src="imgs/anouk_Jewelry_logo_home" />
+						<img src="imgs/anouk_Jewelry_logo_home.png" />
 
 					</div>
 
