@@ -549,17 +549,38 @@ div#nav-foot ul.nav li {
 
 #home #banner {height: 45px;}
 #home #site-logo {position:absolute; left:-6000px;}
-#home #content { 	}
+#home #content { 
+	background-image: url(../imgs/home_page_background.jpg);
+	background-repeat: no-repeat;
+	background-size: 958px 550px;
+	position: relative;
+	height: 100%;
+}
+
+#home #logo {
+
+	position: relative;
+	left: 622px;
+	top: 140px;
+}
+
 #home .image-box-1  {position:absolute; top:1px; left:1px; }
 #home .image-box-2  {position:absolute; top:140px; right:128px; }
+
 #home #tag-line-box { 
-	position: absolute; 
-	width:445px; height:50px;
-	bottom:127px; right:6px;}
+	position: relative; 
+	width: 250px; 
+	height: 50px;
+	top: 210px; 
+	left: 559px;
+	margin: 0;
+}
+
 #home #tag-line-box-inner {
-	width:370px; height:50px; 
+	width:370px; 
+	height:50px; 
 	margin:0 auto;
-	}
+}
 #home  .tag-line-1  {padding-bottom:5px;}
 #home  .tag-line-2  {text-align:right;}
 /* Custom pages Ends */

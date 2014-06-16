@@ -61,11 +61,12 @@ li {
 	color: #adbfbe;
 	}
 #page-title-box #page-title {}
+
 #page-title-box .tag-line {
 	font: 17px/1  "Times New Roman", Times, serif;
 	font-style:italic;
 	color: #5b6f6d;
-	}
+}
 
 
 /* theme color */ 
@@ -213,6 +214,8 @@ div#foot-one p, div#foot-one ul li a { font-size:10px; }
 	font: 17px/1  "Times New Roman", Times, serif;
 	font-style:italic;
 	color: #697c7a;
+	opacity: 0.90;
+	filter: Alpha(opacity=90);
 }
 
 #home .tag-line {

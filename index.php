@@ -40,7 +40,7 @@ $htmlBodyID=strtolower($htmlBodyID);
 	<div id="wrap-all">
 
 
-<?php include( $path . 'includes/content_head.inc.php'); ?>	
+		<?php include( $path . 'includes/content_head.inc.php'); ?>	
 
 
 
@@ -55,36 +55,32 @@ $htmlBodyID=strtolower($htmlBodyID);
 			<div id="wrap-content">
 
 
-<!--Begin: id="mask" -->
-<div id="mask" style="width:958px; height:550px; position:absolute; top:0px; left:0px;	background-color:#fff; opacity:1; z-index:100;"></div>
-<!--End: id="mask" -->
+				<!--Begin: id="mask" -->
+				<div id="mask" style="width:958px; height:550px; position:absolute; top:0px; left:0px;	background-color:#fff; opacity:1; z-index:100;"></div>
+				<!--End: id="mask" -->
 
 
 				<!--Begin: id="content" -->
 				<div id ="content">
 
+					<div id="logo">
 
+						<img src="imgs/anouk_Jewelry_logo_home" />
 
-<div class="image-box-1"><img src="imgs/page_home/anouk_jewelry_unique_rings.jpg" width="507"/></div>
-<div class="image-box-2"><img src="imgs/page_home/landing_pg_logo200x188.jpg" width="200"/></div>
-<div id="tag-line-box"><div id="tag-line-box-inner">
-	<!--
-	<div class="tag-line-1"><em>&ldquo;&nbsp;You cannot think of treasure</em></div>
-	<div class="tag-line-2"><em>without having your imagination sparked.&nbsp;&rdquo;</em></div>
-	-->
-	<div class="tag-line">Imagination, sparked</div>
-</div></div>
+					</div>
 
+					<div id="tag-line-box">
+						<div id="tag-line-box-inner">
+								<div class="tag-line-1"><em>&ldquo;&nbsp;You cannot think of treasure</em></div>
+								<div class="tag-line-2"><em>without having your imagination sparked.&nbsp;&rdquo;</em></div>
+						</div>
+					</div>
+						
 				</div>
-				<!--End: id="content" -->
-				
-				
-			</div>	
-			<!--End: id="wrap-content" -->	
 
-		</div>	
-		<!--End: id=id="wrap-body" -->
+			</div>
 
+		</div>
 
 
 <!-- =================================================================================== -->
