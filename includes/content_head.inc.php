@@ -17,11 +17,16 @@
 					
 					<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script> 
 					<div id="tweeter"> 
-						<a href="https://twitter.com/anoukbyanat" target="_blank"><img src="<?php echo $path ?>imgs/twitter.png" class="social-link""></a> 
+						<a href="https://twitter.com/anoukbyanat" target="_blank"><img src="<?php echo $path ?>imgs/twitter.png" class="social-link"></a> 
 					</div>
 					
 					<div>
-						<a href="http://www.pinterest.com/anoukbyanat" target="_blank"><img src="<?php echo $path ?>imgs/pinterest.png" class="social-link""></a> 
+						<a href="http://www.pinterest.com/anoukbyanat" target="_blank"><img src="<?php echo $path ?>imgs/pinterest.png" class="social-link"></a> 
+						<!-- 
+							Move instagram icon 2 pixels left. Horrific hack to align social links properly. Letting this atrocity stand because this 
+						    site is being deprecated and moved to Wordpress.
+						 -->
+						<a href="http://instagram.com/anoukjewelry" target="_blank"><img src="<?php echo $path ?>imgs/instagram.png" class="social-link" style="margin-left: -2px;"></a> 
 					</div>
 
 				</div>
