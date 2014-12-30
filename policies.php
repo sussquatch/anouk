@@ -103,13 +103,13 @@ $htmlBodyID=strtolower($htmlBodyID);
 						<strong>Caring for your fine jewelry</strong>
 					</p>
 					<p>
-						Your Anouk piece is designed to last a lifetime. However, even though precious metals very durable, 
+						Your Anouk piece is designed to last a lifetime. However, even though precious metals are very durable, 
 						they may still be scratched and damaged. To ensure longevity of your jewelry, we suggest removing it before 
 						activities such as lifting weights, rock climbing, swimming, etc. as well as before using strong chemicals (chlorine, bleach, etc.)
 					</p>
 	 				<p>
 						To clean your fine jewelry at home we recommend using a soft toothbrush, warm water and mild soap. 
-						For a deeper cleaning, you’re welcome to bring your piece to one of our retail locations. We encourage you to have your 
+						For deeper cleaning, you’re welcome to bring your piece to one of our retail locations. We encourage you to have your 
 						jewelry checked on a yearly basis to ensure that the settings have not become loose.
 					</p>
  				</div>

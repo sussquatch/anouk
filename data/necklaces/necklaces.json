@@ -37,7 +37,7 @@
 	,	
 	{
 	"n":"Spearhead Necklace",
-	"d":"14k gold on a 16\" chain",
+	"d":"14k gold on a 16 inch chain",
 	"p":"$690",
 	"f":"spearhead_necklace"
 	}
@@ -58,7 +58,7 @@
 	,
 	{
 	"n":"Pebble Necklace",
-	"d":"14k gold and diamond on 16\" chain",
+	"d":"14k gold and diamond on 16 inch chain",
 	"p":"$1800",
 	"f":"pebble_necklace" 
 	}
@@ -126,19 +126,19 @@
 	},
 	{
 		"n":"Seashore Dot Necklace",
-		"d":"14k gold on 16 in. chain",
+		"d":"14k gold on 16 inch chain",
 		"p":"$695",
 		"f":"seashore_dot_necklace"
 	},
 	{
 		"n":"Apple Tree Necklace",
-		"d":"Half inch14k yellow gold disk with rubies on 16 in. chain",
+		"d":"Half inch 14k yellow gold disk with rubies on 16 inch chain",
 		"p":"$1350",
 		"f":"apple_tree_necklace"
 	},
 	{
 		"n":"Shimmering Waters",
-		"d":"Half inch14k yellow gold disk with diamonds on 16 in. chain",
+		"d":"Half inch 14k yellow gold disk with diamonds on 16 inch chain",
 		"p":"$1450",
 		"f":"shimmering_waters_necklace"
 	}
