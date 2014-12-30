@@ -53,6 +53,18 @@
 			"d":"14k gold, green sapphire and diamonds",
 			"p":"Starting from $3500",
 			"f":"green_sapphire_cushion_ring"
+		},
+		{
+			"n":"Green Sapphire Seafoam Set",
+			"d":"14k gold, green sapphire and diamonds",
+			"p":"Starting from $3400",
+			"f":"green_sapphire_seafoam_set"
+		},
+		{
+			"n":"Little Green Sapphire Halo",
+			"d":"14k brushed gold, green sapphire and diamonds",
+			"p":"Starting from $2200",
+			"f":"little_green_sapphire_halo"
 		}
 	]
 }

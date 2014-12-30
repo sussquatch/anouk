@@ -150,7 +150,7 @@
 		{
 			"n":"Tree Bark Band",
 			"d":"14k yellow gold band",
-			"p":"1200",
+			"p":"$1200",
 			"f":"tree_bark_band"
 		}
 		,
@@ -220,6 +220,36 @@
 			"d":"14k gold, sapphire and diamonds",
 			"p":"Starting from $2800",
 			"f":"blue_sapphire_cushion_halo_ring"
+		},
+		{
+			"n":"Extra Fine Organic Band",
+			"d":"14k white gold, 2mm band",
+			"p":"$620",
+			"f":"extra_fine_organic_band"
+		},
+		{
+			"n":"Seashore Cushion Halo Ring",
+			"d":"14k white gold, starting from 0.5ct central stone and accent diamonds",
+			"p":"Starting from $4400",
+			"f":"seashore_cushion_halo_ring"
+		},
+		{
+			"n":"Sand and Stars Band",
+			"d":"14k gold and diamonds",
+			"p":"$990",
+			"f":"sand_and_stars_band"
+		},
+		{
+			"n":"White Aquamarine Halo Ring",
+			"d":"14k gold, aquamarine and diamonds",
+			"p":"Starting from $1900",
+			"f":"white_gold_aquamarine_halo"
+		},
+		{
+			"n":"Seafoam Set",
+			"d":"14k gold, and diamonds",
+			"p":"Starting from $3800",
+			"f":"seafoam_set"
 		}
 	]
 }

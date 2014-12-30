@@ -129,6 +129,18 @@
 		"d":"14k gold on 16 in. chain",
 		"p":"$695",
 		"f":"seashore_dot_necklace"
+	},
+	{
+		"n":"Apple Tree Necklace",
+		"d":"Half inch14k yellow gold disk with rubies on 16 in. chain",
+		"p":"$1350",
+		"f":"apple_tree_necklace"
+	},
+	{
+		"n":"Shimmering Waters",
+		"d":"Half inch14k yellow gold disk with diamonds on 16 in. chain",
+		"p":"$1450",
+		"f":"shimmering_waters_necklace"
 	}
 ]
 }

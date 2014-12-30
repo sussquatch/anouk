@@ -114,6 +114,30 @@
 			"d":"14k gold, 0.3ct octahedron tops and diamonds",
 			"p":"Starting from $3100",
 			"f":"rough_diamond_halo_earrings"
+		},
+		{
+			"n":"Rough Diamond Octahedron Halo Ring",
+			"d":"14k white gold and diamonds",
+			"p":"Starting from $5400",
+			"f":"rough_diamond_octahedron_halo_ring"
+		},
+		{
+			"n":"Rough Octahedron Prong Solitaire",
+			"d":"14k white gold and rough diamond",
+			"p":"Starting from $3500",
+			"f":"rough_octahedron_prong_solitaire"
+		},
+		{
+			"n":"Free-form Rough Diamond Halo Ring",
+			"d":"14k yellow gold and diamonds",
+			"p":"Starting from $5000",
+			"f":"free_form_rough_diamond_halo_ring"
+		},
+		{
+			"n":"Organic Rough Diamond Solitaire",
+			"d":"14k gold and a rough octahedron top",
+			"p":"Starting from $4500",
+			"f":"organic_rough_diamond_solitaire"
 		}
 	]
 }

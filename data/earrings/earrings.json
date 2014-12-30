@@ -45,6 +45,18 @@
 		"d":"14k gold",
 		"p":"$800",
 		"f":"golden_leaf_earrings"
+	},
+	{
+		"n":"Cloud Studs",
+		"d":"14k yellow gold",
+		"p":"$1550",
+		"f":"cloud_studs"
+	},
+	{
+		"n":"Flowing Sand",
+		"d":"14k yellow gold",
+		"p":"$1450",
+		"f":"flowing_sand"
 	}
 ]
 }
